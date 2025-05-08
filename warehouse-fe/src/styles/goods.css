@@ -1,0 +1,9 @@
+.goods { border-collapse: collapse; width: 100%; }
+.goods th, .goods td { border: 1px solid #ddd; padding: 8px; }
+.goods th { background: #f4f4f4; }
+.pager { margin-top: 12px; }
+.pager button { margin: 0 4px; padding: 4px 8px; }
+.pager .active { background: #1890ff; color: white; }
+
+.goods-form label { display:block; margin:8px 0;}
+.goods-form input { padding:4px 6px; margin-left:6px; }
